@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @niko-greb
 - 👀 I’m interested in sofware development
-- 🌱 I’m currently learning Ruby (Ruby on rails) and Python
+- 🌱 I’m currently learning Ruby (Ruby on rails) and vanila JS
       As well I'm learning everything about IT industry
       I tried many languages:
-        Junior level: Python, Ruby
-        Basic+ level: Go, JavaScript
+        Junior level: JavaScript, Ruby
+        Basic+ level: Go, Python
         Basic level: Elixir, C#, C++, Haskell, Java, Rust
 - 📫 How to reach me niko.grebennikov@gmail.com
 
